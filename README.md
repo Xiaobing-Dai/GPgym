@@ -1,4 +1,4 @@
-# [AAAI 2025] Asynchronous Distributed Gaussian Process Regression for Online Learning and Dynamical Systems
+# [AAAI 2025] Asynchronous Distributed Gaussian Process Regression
 
 
 
